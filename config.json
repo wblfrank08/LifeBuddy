@@ -1,0 +1,13 @@
+{"llm_config":
+  {
+    "base_url":"https://apihub.agnes-ai.com/v1",
+    "model_name":"agnes-3.0-flash",
+    "api_key":"sk-28suCnI0r5L7arpY0RmoeQnWPorl8LFbS4kv0Bx3evfenQBy"
+  },
+  "embedding_config":
+  {
+    "base_url":"http://127.0.0.1:8081",
+    "dimension":512
+  },
+  "top_k":5
+}
