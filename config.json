@@ -1,8 +1,8 @@
 {"llm_config":
   {
-    "base_url":"https://apihub.agnes-ai.com/v1",
-    "model_name":"agnes-3.0-flash",
-    "api_key":"sk-28suCnI0r5L7arpY0RmoeQnWPorl8LFbS4kv0Bx3evfenQBy"
+    "base_url":"http://127.0.0.1:8080/v1",
+    "model_name":"model-name",
+    "api_key":"sk-"
   },
   "embedding_config":
   {
