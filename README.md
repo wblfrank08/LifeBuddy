@@ -82,5 +82,12 @@ LifeBuddy 是一个帮你**记录、整理并复用个人经历**的智能助手
 所有轻提示都安静地一闪而过，不打断你正在做的事。
 
 ---
+## 使用流程
+
+- 在config.json中配置LLM及向量模型
+- `pip install -r requirements.txt`
+- `streamlit run app.py`
+
+---
 
 **LifeBuddy V1.0 · By Maxwell**
